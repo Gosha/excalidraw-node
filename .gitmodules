@@ -1,0 +1,6 @@
+[submodule "excalidraw"]
+	path = excalidraw
+	url = https://github.com/excalidraw/excalidraw
+[submodule "packages/excalidraw-node/excalidraw"]
+	path = packages/excalidraw-node/excalidraw
+	url = https://github.com/excalidraw/excalidraw
